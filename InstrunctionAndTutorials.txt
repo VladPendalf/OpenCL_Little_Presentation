@@ -1,0 +1,32 @@
+Install Guide:
+https://github.com/KhronosGroup/OpenCL-Guide/blob/main/chapters/getting_started_windows.md - использовал инструкцию
+с vcpkg для Visual Studio
+
+c++ for openCL
+
+Code examples:
+http://simpleopencl.blogspot.com/2013/06/tutorial-simple-start-with-opencl-and-c.html -если ядро указано в коде
+https://gist.github.com/jarutis/a64eaa38c1caaf7bc3d28cea64bb8359 - если ядро указано в .cl файле
+
+OpenCL C:
+
+Code examples:
+https://habr.com/ru/articles/261323/
+
+CUDA:
+
+Install Guide:
+https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html#system-requirements
+
+Code example:
+https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
+
+Intell oneAPI TBB:
+https://habr.com/ru/companies/intel/articles/542614/ тут ссылка на intel oneAPI base toolkit
+
+Example guide:
+https://spec.oneapi.io/versions/latest/elements/oneTBB/source/nested-index.html#onetbb-section
+
+OpenMP:
+Code Example:
+https://github-pages.ucl.ac.uk/research-computing-with-cpp/08openmp/02_intro_openmp.html
